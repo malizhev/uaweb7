@@ -1,0 +1,12 @@
+{
+	
+	"room": "malizhev/uaweb2015",
+	"key": "6e082424e44985455a1a1eef4bf80ad4c0452e87",
+
+	"calcMessages": {
+
+		"greetings": "**> BOT: ** Hi! There is a robot in a chat",
+		"expressionError": "Ooops. Seems that expression is wrong. Don't mind to try again? ;)",
+		"expressionEmpty": "Please specify an expression, e.g. calc 81/9"
+	}
+}

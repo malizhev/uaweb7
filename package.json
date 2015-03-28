@@ -1,0 +1,28 @@
+{
+  "name": "uaweb2015",
+  "version": "1.0.0",
+  "description": "GitterCalculator project for UA WebChallenge VII",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests --require tests/helpers/chai-config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malizhev/uaweb2015"
+  },
+  "author": "Bogdan Malizhev (http://malizhev.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malizhev/uaweb2015/issues"
+  },
+  "homepage": "https://github.com/malizhev/uaweb2015",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "mathjs": "^1.4.0",
+    "node-gitter": "^1.2.8"
+  },
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "mocha": "^2.2.1"
+  }
+}
