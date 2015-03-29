@@ -32,6 +32,12 @@ node gitter-calc username/roomname
 ```
 If there is no room specified the script will rollback to the default one. 
 
+To run tests execute the following command:
+
+```
+npm test
+```
+
 ## How to configure?
 
 All app's defaults are stored in `config.json` file.
