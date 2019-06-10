@@ -1,6 +1,6 @@
 {
   "name": "uaweb2015",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GitterCalculator project for UA WebChallenge VII",
   "main": "index.js",
   "scripts": {
